@@ -89,7 +89,6 @@ namespace Сockroach
         private void panel1_SizeChanged(object sender, EventArgs e)
         {
             this.FillTracks();
-            this.AddCockroach();
             this.panel1.Invalidate();
         }
 
